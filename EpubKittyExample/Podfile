@@ -1,0 +1,5 @@
+platform :ios, '9.0'
+target 'EpubKittyExample' do
+  pod 'EpubViewerKit', :path => '../'
+end
+use_modular_headers!
