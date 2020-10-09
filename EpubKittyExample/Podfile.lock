@@ -4,16 +4,16 @@ PODS:
     - AEXML (= 4.6.0)
     - FontBlaster (= 5.1.1)
     - MenuItemKit (= 4.0.1)
-    - RealmSwift (= 5.4.8)
+    - RealmSwift (= 3.20.0)
     - SSZipArchive (= 2.2.3)
     - ZFDragableModalTransition (= 0.6)
   - FontBlaster (5.1.1)
   - MenuItemKit (4.0.1)
-  - Realm (5.4.8):
-    - Realm/Headers (= 5.4.8)
-  - Realm/Headers (5.4.8)
-  - RealmSwift (5.4.8):
-    - Realm (= 5.4.8)
+  - Realm (3.20.0):
+    - Realm/Headers (= 3.20.0)
+  - Realm/Headers (3.20.0)
+  - RealmSwift (3.20.0):
+    - Realm (= 3.20.0)
   - SSZipArchive (2.2.3)
   - ZFDragableModalTransition (0.6)
 
@@ -36,11 +36,11 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   AEXML: 2fbb73d8724797ed2cde888731e176fa4d44dd83
-  EpubViewerKit: 77d00795365fafd576bc088b3abc9ee0ede53954
+  EpubViewerKit: 9903020e65c3e504b79b832645bbcfcc72fd81bf
   FontBlaster: 8897ebdbb4b6ace3ab78c92b665d88c954f19e4a
   MenuItemKit: 1459920e984d823e1bcc858b7a964f94e6bfa0f6
-  Realm: 042bbb59227a0159eda397b8a5a49fbd67495ce7
-  RealmSwift: 15ddd6b3398ebfc99810811c44f095df1313adb3
+  Realm: 8b2ca5bc6479a91f379b6b42b5922e396cd5ba5a
+  RealmSwift: 1949ef26a279e1845bd51d591b9103adfcd121df
   SSZipArchive: 62d4947b08730e4cda640473b0066d209ff033c9
   ZFDragableModalTransition: 0d294eaaba6edfcb9839595de765f9ca06a4b524
 
