@@ -3,7 +3,7 @@
 #
 Pod::Spec.new do |s|
   s.name             = 'EpubViewerKit'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'A epub reader flutter plugin project.'
   s.description      = <<-DESC
 An open source epub reader plugin written in swift
