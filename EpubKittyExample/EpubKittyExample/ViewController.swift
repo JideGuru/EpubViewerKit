@@ -18,7 +18,6 @@ class ViewController: UIViewController,FolioReaderPageDelegate{
         // Do any additional setup after loading the view.
         
         
-        
 //        self.config = EpubConfig.init(Identifier: "Identifier",tintColor: "color",allowSharing: allowSharing,scrollDirection: scrollDirection)
 //
 //
