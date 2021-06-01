@@ -105,6 +105,7 @@
 				35EE6D0C242C541000ACB355 /* Sources */,
 				35EE6D0D242C541000ACB355 /* Frameworks */,
 				35EE6D0E242C541000ACB355 /* Resources */,
+				1A60525CD9EDC2351A903238 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -162,6 +163,23 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
+		1A60525CD9EDC2351A903238 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-EpubKittyExample/Pods-EpubKittyExample-resources-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-EpubKittyExample/Pods-EpubKittyExample-resources-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-EpubKittyExample/Pods-EpubKittyExample-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
 		56477BC3081A5121515B280E /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
