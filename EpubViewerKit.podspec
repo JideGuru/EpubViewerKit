@@ -3,7 +3,7 @@
 #
 Pod::Spec.new do |s|
   s.name             = 'EpubViewerKit'
-  s.version          = '0.1.2'
+  s.version          = '0.1.3'
   s.summary          = 'A epub reader flutter plugin project.'
   s.description      = <<-DESC
 An open source epub reader plugin written in swift
@@ -40,7 +40,7 @@ An open source epub reader plugin written in swift
   s.dependency 'ZFDragableModalTransition', '0.6'
   s.dependency 'AEXML', '4.6.0'
   s.dependency 'FontBlaster', '5.1.1'
-  s.dependency 'RealmSwift', '5.4.8'
+  s.dependency 'RealmSwift', '5.5.1'
   
   s.ios.deployment_target = '9.0'
 end
