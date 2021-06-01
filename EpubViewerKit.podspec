@@ -12,17 +12,17 @@ An open source epub reader plugin written in swift
   s.license          = "MIT"
   s.author           = { 'jideguru' => 'guruliciousjide@gmail.com' }
   s.source           = { :git => 'https://github.com/JideGuru/EpubViewerKit.git', :tag=>'0.1.2' }
-  
+
   s.swift_version = '4.2'
   s.requires_arc  = true
-  
+
   s.source_files = [
   'Classes/**/*',
   'Source/*.{h,swift}',
   'Source/**/*.swift',
   'Vendor/**/*.swift',
   ]
-  
+
   s.resources = [
     'Source/**/*.{js,css}',
     'Source/Resources/*.xcassets',
@@ -32,8 +32,8 @@ An open source epub reader plugin written in swift
   'Classes/**/*.h',
   'Source/*.h',
   ]
-  
-  
+
+
   s.libraries  = "z"
   s.dependency 'SSZipArchive', '2.2.3'
   s.dependency 'MenuItemKit', '4.0.1'
@@ -41,6 +41,6 @@ An open source epub reader plugin written in swift
   s.dependency 'AEXML', '4.6.0'
   s.dependency 'FontBlaster', '5.1.1'
   s.dependency 'RealmSwift', '5.5.1'
-  
+
   s.ios.deployment_target = '9.0'
 end
